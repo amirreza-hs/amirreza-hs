@@ -13,8 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza-hs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 -->
 ### ✍️ Random Dev Quote
-💡 *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— **Martin Fowler**, *Refactoring* 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=amirreza-hs&icon=0&color=6)](https://visitcount.itsvg.in)
